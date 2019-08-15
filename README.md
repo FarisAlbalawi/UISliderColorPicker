@@ -18,6 +18,15 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Installation
+
+UISliderColorPicker is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'UISliderColorPicker'
+```
+
 ## Usage
 
 ```swift
@@ -68,16 +77,6 @@ extension ViewController: UISliderColorDelegate {
 }
 ```
 
-## Requirements
-
-## Installation
-
-UISliderColorPicker is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'UISliderColorPicker'
-```
 
 ## Author
 
