@@ -1,0 +1,16 @@
+PODS:
+  - UISliderColorPicker (0.1.0)
+
+DEPENDENCIES:
+  - UISliderColorPicker (from `../`)
+
+EXTERNAL SOURCES:
+  UISliderColorPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UISliderColorPicker: 76fbbed2e2afa4c6cf1f421327189c45358b950a
+
+PODFILE CHECKSUM: 8f27ab0163ffe2a4be5064fb7642cae2a84aa0ae
+
+COCOAPODS: 1.6.2

@@ -1,0 +1,6 @@
+framework module Pods_UISliderColorPicker_Example {
+  umbrella header "Pods-UISliderColorPicker_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

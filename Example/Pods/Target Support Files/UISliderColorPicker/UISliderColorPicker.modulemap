@@ -1,0 +1,6 @@
+framework module UISliderColorPicker {
+  umbrella header "UISliderColorPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
