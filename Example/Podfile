@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UISliderColorPicker_Example' do
+  pod 'UISliderColorPicker', :path => '../'
+
+  target 'UISliderColorPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
