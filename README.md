@@ -80,7 +80,8 @@ extension ViewController: UISliderColorDelegate {
 
 ## Author
 
-Faris Albalawi, developer.faris@gmail.com
+Faris Albalawi 
+developer.faris@gmail.com
 
 ## License
 
